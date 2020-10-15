@@ -7,24 +7,14 @@
 
 <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-    <style>
-        i {
-            font-size: 50px;
-        }
-        .container {
-            display: flex;
-            justify-content: space-between;
-            max-width: 846px;
-        }
-    </style>
 </head>
 <body>
     <div class="container">
-        <i class="devicon-python-plain colored" title="Python"></i>
-        <i class="devicon-java-plain colored" title="Java"></i>
-        <i class="devicon-html5-plain colored" title="HTML"></i>
-        <i class="devicon-css3-plain colored" title="CSS"></i>
-        <i class="devicon-postgresql-plain colored" title="PostgreSQL"></i>
-        <i class="devicon-mysql-plain colored" title="MySQL"></i>
+        <i class="devicon-python-plain colored" style="font-size: 50px" title="Python"></i>
+        <i class="devicon-java-plain colored" style="font-size: 50px" title="Java"></i>
+        <i class="devicon-html5-plain colored" style="font-size: 50px" title="HTML"></i>
+        <i class="devicon-css3-plain colored" style="font-size: 50px" title="CSS"></i>
+        <i class="devicon-postgresql-plain colored" style="font-size: 50px" title="PostgreSQL"></i>
+        <i class="devicon-mysql-plain colored" style="font-size: 50px" title="MySQL"></i>
     </div>
 </body>
