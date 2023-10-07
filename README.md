@@ -1,1 +1,1 @@
-[](dvd-old.gif)
+![](dvd-old.gif)
