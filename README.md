@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="dvd-old.gif" />
+  <img src="dvd.gif" />
 </div>
